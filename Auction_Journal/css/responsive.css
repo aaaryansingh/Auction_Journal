@@ -1,0 +1,503 @@
+@charset "utf-8";
+/* CSS Document */
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+@media only screen and (max-width: 1400px) {
+
+					/*DASHBOARD*/
+
+.tabledashboard {
+    width: 180%;
+}
+
+					/*DASHBOARD*/
+
+.advertise_ancor a{    font-size: 15px;}
+}
+
+@media screen and (max-width: 1199.98px) {
+
+					/*DASHBOARD*/
+
+.tabledashboard {
+    width: 200%;
+}	
+
+					/*DASHBOARD*/
+
+/*################## Inner Page #####################*/
+.navbar.news-menu .nav-item a{    font-size: 12px;    margin: 0 5px;}
+/*################## Inner Page #####################*/
+
+
+.count-wrap li{    margin: 0 2px;}
+.count-wrap li .counter{    width: 50px;}
+
+
+
+
+}
+
+@media screen and (max-width: 991.98px) {
+
+					/*DASHBOARD*/
+
+.tabledashboard {
+    width: 229%;
+}
+
+.dashboard-logo-img a img {
+    width: 50%;
+}	
+
+					/*DASHBOARD*/
+
+/*################## Inner Page #####################*/
+
+/*################## Inner Page #####################*/
+}
+
+@media screen and (max-width: 767.98px) {
+
+					/*DASHBOARD*/
+
+.tabledashboard {
+    width: 330%;
+}
+
+					/*DASHBOARD*/
+
+
+/*################## Inner Page #####################*/
+
+/*################## Inner Page #####################*/
+}
+@media only screen and (max-width: 620px) {
+
+				/*DASHBOARD*/
+
+.tabledashboard {
+    width: 400%;
+}
+
+.reset_btn {
+    padding: 5px 37px;
+    margin-top: 9px;
+}
+
+				/*DASHBOARD*/
+
+}
+@media only screen and (max-width: 479px) {
+
+				/*DASHBOARD*/
+
+.tabledashboard {
+    width: 470%;
+}
+
+				/*DASHBOARD*/
+
+}
+@media only screen and (max-width: 414px) {
+
+				/*DASHBOARD*/
+
+
+
+				/*DASHBOARD*/
+
+}
+@media only screen and (max-width: 412px) {
+
+				/*DASHBOARD*/
+
+.tabledashboard {
+    width: 500%;
+}
+
+				/*DASHBOARD*/
+
+}
+@media only screen and (max-width: 375px) {
+
+
+				/*DASHBOARD*/
+
+.tabledashboard {
+    width: 600%;
+}
+
+.dashboard-logo-img a img {
+    width: 75%;
+}
+
+
+
+				/*DASHBOARD*/
+}
+@media only screen and (max-width: 360px) {
+
+				/*DASHBOARD*/
+
+.user-list-inner-bar-button {
+    text-align: center;
+    margin-top: 42px;
+}
+
+.tabledashboard {
+    width: 800%;
+}
+
+				/*DASHBOARD*/
+
+}
+@media only screen and (max-width: 320px) {
+
+}
+
+/*My Account*/
+@media only screen and (max-width: 1024px){
+	.btn-wrap .btn{    padding: 9px 22px;    margin-right: 8px;}
+
+  .news-details-cont .image-wrap img {
+    height: auto;
+}
+.cat-list-box h5{ font-size: 1rem;}
+.cat-list-box h4{ font-size: 1.2rem;}
+
+.navbar_menu_section .nav-menu > li > a{    font-size: 18px;    margin: 0 12px;}
+
+.home-online-sec .online-box .content-wrap {
+    padding: 0 10px;
+}
+.count-wrap li .counter{    font-size: 14px;    width: 40px;}
+.count-wrap li label{    font-size: 12px;}
+.home-online-sec .info .price{    font-size: 18px;}
+.home-online-sec .info .bids-count{    font-size: 13px;}
+.home-online-sec .info .bids-count img{width: 12px;}
+.home-online-sec h5{font-size: 1rem;}
+.online-box .image-wrap {
+    margin-bottom: 20px;
+}
+.home-online-sec .online-box .btn-grp .btn.expired{padding: 4px 15px;
+    font-size: 12px;}
+.home-online-sec .online-box h4,
+.advertise_main_body h4 {
+    padding: 20px 20px;
+    font-size: 1.2rem;
+}
+.online-box .image-wrap img {
+    height: 180px;
+}
+
+.real-estate-box .imagewrap img{    height: 128px;}
+.real-estate-box .content-wrap{    padding: 10px;}
+.real-estate-box .content-wrap p{    font-size: 13px;    line-height: 18px;}
+
+.equipment-section .content-wrap, .coin-section .content-wrap {
+    padding: 55px 35px;min-height: 278px;
+}
+.equipment-section .content-wrap p, .coin-section .content-wrap p{    font-size: 15px;
+    line-height: 22px;}
+    .equipment-section .content-wrap h4, .coin-section .content-wrap h4{    font-size: 20px;}
+.equipment-section .content-wrap .date, .coin-section .content-wrap .date{    font-size: 13px;}
+.body_youtube_sec iframe {
+    height: 525px;
+}
+.featuredandadvertise_img, .featuredandadvertise_img a img {
+    height: 315px;
+} 
+
+.advertise_ancor a {
+    font-size: 13px;
+   
+}
+
+}
+
+
+@media only screen and (max-width: 991px) {
+	
+	.message-cont{display: block;}
+	.message-form.form-inline{    width: 100%;
+    margin-bottom: 15px;}
+
+    .article-box h3 { font-size: 1.25rem;
+    min-height: inherit;}
+    .article-box .article-img img {
+    height: 150px;}
+    .news-cat-heading{ font-weight: 600;
+    font-size: 18px;
+    padding: 0;}
+    .navbar.news-menu .nav-item a {
+    font-size: 14px;}
+    .navbar.news-menu .nav-item .dropdown-menu a{    line-height: 18px;    padding: 5px 15px;    font-size: 13px;}
+    .navbar-light.news-menu .navbar-toggler-icon{
+    background-image: url(data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e) !important;
+}
+
+.news-sidebar{ padding: 15px;}
+.news-sidebar h5{    font-size: 1rem;}
+.news-sidebar .news-block{    flex-direction: column;}
+.news-sidebar .news-block img{    width: 100%;}
+
+.find-auc-cont .sort-seclect label{    font-size: 12px;}
+.navbar.news-menu{    padding: 0;
+    margin-bottom: 15px;}
+.cat-list-box .image-wrap img {
+    height: auto;
+}
+.advertise_ancor a {
+    font-size: 10px;padding: 0px 8px;
+}
+.header_social_adever ul li{    margin-right: 20px;}
+.header_social_adever ul li a{font-size: 15px;}
+.dummy_cont p{font-size: 10px;}
+
+.online-box .image-wrap img {
+    height: auto;
+}
+.home-online-sec h5{    min-height: inherit;}
+.count-wrap {
+    margin-top: 35px;
+}
+.real-estate-box .content-wrap{padding: 20px;
+    flex: 0 0 100%;
+    max-width: 100%;}
+.real-estate-box .content-wrap h6{    font-size: 1rem;}
+.real-estate-box .content-wrap p{    font-size: 14px;    line-height: 22px;}
+.real-estate-box{    flex-direction: column;}
+.real-estate-box .imagewrap {
+    flex: 0 0 100%;
+    max-width: 100%;    margin-bottom: 20px;
+}
+.real-estate-box .imagewrap img {
+    height: 300px;
+}
+
+.equipment-section img, .coin-section img,
+.feature-section img {
+    height: 165px;
+}
+.equipment-section .content-wrap, .coin-section .content-wrap {
+    padding: 30px 20px;
+    min-height: 254px;
+}
+.body_youtube_sec iframe {
+    height: 400px;
+}
+.all_countries_main{    background-image: none;background-color: #170d26; overflow: hidden;    height: auto;    padding: 20px 0;
+}
+.all_contries_division ul{    width: 50%;     padding: 20px 50px;}
+.featuredandadvertise_img, .featuredandadvertise_img a img {
+    height: 238px;
+}
+.upper_footer_items ul li a{    font-size: 13px;}
+.upper_footer_section {
+    padding: 50px 0 38px 0;
+}
+.footer-logo img{    width: 150px;}
+.lower_footer_section{      padding: 30px 0 20px 0;}
+.lower_footer_items ul li a{    font-size: 13px;    line-height: 34px;}
+.lower_footer_items{    text-align: center;}
+.lower_footer_items ul li{    margin-left: 20px;}
+.lower_footer_items ul li::before{    right: -14px;}
+.footer-reserve p{    font-size: 13px;
+    line-height: 26px;}
+.lower_footer_items ul li:last-child:before{ display: none; }
+
+.login_and_signup ul li a{    font-size: 14px;    padding: 11px 30px;}
+
+
+}
+
+@media only screen and (min-width: 768px){ 
+    .mob-myacnt{ display: none; } 
+
+    
+    }
+
+
+@media only screen and (max-width: 767px){
+	.search_form_inner_feild .form-group [type='text'],
+	.search_form_inner_feild .form-group select{    width: 100%;}
+	.search_form_inner_feild .form-group [type='submit']{    width: 100%;    font-size: 14px;}
+	.search_form_inner_feild .form-group {
+    margin: 5px 10px;
+    width: 42%;
+}
+.sideways{display: none;}
+span.mob-user{    width: 30px;
+    height: 30px;
+    background-color: #ca0707;
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 30px;
+    font-size: 19px;
+    display: inline-block;position: absolute;
+        left: 15px;
+    top: 7px;}
+.mob-myacnt{background-color: #1f1f1f;
+        padding: 10px 70px;
+    margin-bottom: 15px;
+    position: relative;color: #fff;
+    margin-bottom: 15px;position: relative;}
+.mob-open{ display: block;   }
+.article-box .article-img img {
+    height: auto;}
+
+.news-box .news-img,
+.news-box .news-desc {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.news-box {
+    flex-direction: column;
+}
+
+.news-img img{    height: auto;}
+
+.sort-seclect.page-no .form-group {
+    text-align: left;
+}
+.sort-seclect .form-control {
+    width: 100%;
+}
+.sort-seclect label{ display: block; }
+#calendar.fc .fc-toolbar-title {font-size: 1em;}
+
+.tab-content h2{    font-size: 20px;}
+
+
+
+  .news-sidebar .news-block img {    margin-bottom: 15px;
+    height: auto;
+}
+.header_section{text-align: center;
+    padding: 10px 0;
+    height: auto;}
+.header_social_adever {
+    text-align: center; margin: 5px 0;
+}
+.advertise_ancor a{ padding: 10px 20px;
+    display: inline-block;
+    font-size: 13px;
+    height: auto;
+    line-height: 24px;}
+section.main-body-section{    flex-direction: column;}
+    .main_body,
+    .advertised_body{ width: 100%; }
+
+.equipment-section img, .coin-section img, .feature-section img {
+    height: 440px;
+}
+.all_contries_division ul {
+    width: 100%;    padding-bottom: 0;
+}
+.all_header{font-size: 24px;}
+.featuredandadvertise_img, .featuredandadvertise_img a img {
+    height: auto;
+}
+.featuredandadvertise_img {
+    padding-bottom: 10px;
+}
+.advertise_new,
+.advertise_now_img {
+    margin-bottom: 15px;
+}
+.featuredandadvertise {
+    margin-bottom: 30px;
+}
+
+.equipment-section .content-wrap, .coin-section .content-wrap{    min-height: inherit;}
+.header_social_adever ul li:last-child{ margin-right: 0; }
+
+.logo {
+    text-align: center;
+    margin-right: 0;
+}
+.logo img{max-width: 250px;}
+.login_and_signup {
+    text-align: center;
+    margin: 20px 0 12px 0;
+}
+
+}
+
+
+/* breakpoint and up - mega dropdown styles */
+@media screen and (min-width: 992px) {
+  
+  /* remove the padding from the navbar so the dropdown hover state is not broken */
+.navbar {
+  padding-top:0px;
+  padding-bottom:0px;    border-top: 2px solid #808080;
+    border-bottom: 2px solid #808080;
+    margin-bottom: 30px;
+}
+
+/* remove the padding from the nav-item and add some margin to give some breathing room on hovers */
+.navbar .nav-item {
+  
+}
+
+/* makes the dropdown full width  */
+.navbar .dropdown {position:static;}
+
+.navbar .dropdown-menu {
+  width:100%;
+  left:0;
+  right:0;
+/*  height of nav-item  */
+     top: 40px;
+  
+  display:block;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 0.3s linear;
+  
+}
+  
+ 
+
+  
+  /* shows the dropdown menu on hover */
+.navbar .dropdown:hover .dropdown-menu, .navbar .dropdown .dropdown-menu:hover {
+  display:block;
+  visibility: visible;
+  opacity: 1;
+  transition: visibility 0s, opacity 0.3s linear;
+}
+  
+  .navbar .dropdown-menu {
+    border: 1px solid rgba(0,0,0,.15);
+    background-color: #fff;
+  }
+
+  .news-cat-heading{ display: none; }
+
+}
+
+@media screen and (max-width: 575px){
+#calendar.fc .fc-toolbar{
+    align-items: center;
+    flex-direction: column;}
+#calendar .fc-toolbar-chunk{ margin-bottom: 15px; }
+.tab-content #event-calendar h2{ text-align: center;}
+.btn-wrap .btn {
+    padding: 9px 15px;
+   font-size: 13px;
+}
+.cat-new-box img{    float: left;
+    width: 100%;    margin-left: 0;}
+
+.equipment-section img, .coin-section img, .feature-section img {
+    height: 250px;
+}
+
+}
+
+
